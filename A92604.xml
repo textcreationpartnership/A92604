@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remonstrance and resolution of the Parlament of Scotland, and their proposals concerning their young King; and sending for him from St. Johnstons to Edenborough, to be immediatly crowned: with the manner of his entertainment. Also, the present proceedings of the Scotch armies, under the conduct of General Leven, General Lesley, Lieutenant-General Massey, and Major General Holbourn. Together, with their designe to rendezvous in Dunslaw field (near the borders of England) and there to oppose his excellency the Lord General Cromwel, now at Berwick.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92604</idno><idno type="EEBO-CITATION">99865124</idno>
+  <idno type="VID">165689</idno>
+  <idno type="EEBO-PROQUEST">2240917283</idno>
+  
+            <idno type="STC">Wing S1331</idno>
+            <idno type="STC">Thomason E608_1</idno>
+            <idno type="STC">ESTC R205891</idno>
+            <idno type="PROQUEST">99865124</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865124e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165689)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E608[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remonstrance and resolution of the Parlament of Scotland, and their proposals concerning their young King; and sending for him from St. Johnstons to Edenborough, to be immediatly crowned: with the manner of his entertainment. Also, the present proceedings of the Scotch armies, under the conduct of General Leven, General Lesley, Lieutenant-General Massey, and Major General Holbourn. Together, with their designe to rendezvous in Dunslaw field (near the borders of England) and there to oppose his excellency the Lord General Cromwel, now at Berwick.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2] 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685.</term>
+               <term type="personal_name">Cromwell, Oliver, 1599-1658.</term>
+               <term type="corporate_name">Scotland. --  Army --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165689:1"/>
+            <p>THE REMONSTRANCE AND RESOLUTION OF THE Parlament of SCOTLAND, and their Proposals concerning their young King; And sending for him from St. <hi>Johnstons</hi> to <hi>Edenborough,</hi> to be immediatly crowned: With the manner of his Entertain<g ref="char:EOLhyphen"/>ment.</p>
+            <p>ALSO, The present Proceedings of the Scotch Armies, under the Conduct of General <hi>Leven,</hi> General <hi>Lesley,</hi> Lieutenant-General <hi>Massey,</hi> and Major General <hi>Holbourn.</hi>
+            </p>
+            <p>
+               <hi>TOGETHER,</hi> With their designe to Rendezvous in Dunslaw field (near the Borders of <hi>England</hi>) and there to oppose His Excellency the Lord General <hi>Cromwel,</hi> now at <hi>Berwick.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Horton.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165689:2"/>
+            <pb n="1" facs="tcp:165689:2"/>
+            <head>The Remonstrance and Resolution of the Parliament of SCOTLAND, con<g ref="char:EOLhyphen"/>cerning the Covenant.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough the injuries done, and provocations offered to this Na<g ref="char:EOLhyphen"/>tion, by the Kingdom of <hi>Scotland,</hi> as well precedent, as subsequent to their last years invasion; hath been such, as might in reason have shut the door upon all amicable offers, to have arisen, especially on the Parliament of <hi>Englands</hi> part: Yet to manifest how unwilling they were to forget their former con<g ref="char:EOLhyphen"/>junxion with the <hi>Scots,</hi> in the assenting and defending of Religion, and the publike rights and liberties of both Nations, against the common enemy; and how ready they have been in prosecution of the same cause to maintain a firm friendship with them, that thereby the enemies of our Religion and liberties, might be disappointed of their wicked and dangerous designes, long since contrived, and to this day dexterously pur<g ref="char:EOLhyphen"/>sued, to the utter ruining of both Nations, at least the wel-affected and conscientious party in both, through
+<pb n="2" facs="tcp:165689:3"/>the dividing them, and engaging them in irreconcile<g ref="char:EOLhyphen"/>able animosities and differences among themselves, For prevention whereof, the Parlament of <hi>England</hi> were pleased to propound unto the Parlament of <hi>Scotland,</hi> that Commissioners might be respectively appointed, as well on the behalf of this Common<g ref="char:EOLhyphen"/>wealth, as of the Kingdom of <hi>Scotland,</hi> to meet with what convenient speed might be; at which meeting, the particulars of that just resentment for which the Parliament of <hi>England</hi> demanded satisfaction, should be produced, and if satisfaction were therein given, they should be further willing to treat, and conclude a firm league and friendship with them. But unto this fair and friendly overture of the Parlament, no return would serve the Parlament of that Kingdom, but that which lays an incapacity upon the Representatives at <hi>Westminster,</hi> casting an aspersion upon their proceed<g ref="char:EOLhyphen"/>ings, and publikely professing a dis-acknowledgment of their present Government; refusing to treat upon any other terms, then a return back to the former Go<g ref="char:EOLhyphen"/>vernment of <hi>King,</hi> Lords, and Commons; as will evi<g ref="char:EOLhyphen"/>dently appear by their former Letter to the Parla<g ref="char:EOLhyphen"/>ment, a Copy whereof followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>THe Estates of the Parlament of this King<g ref="char:EOLhyphen"/>dom have received your Letter, signed by you as Speaker of the Parliament, and written in the name of the <hi>Commonwealth of England;</hi> which Titles, in regard of the Solemn <hi>League</hi> and <hi>Covenant,</hi> and <hi>Trea<g ref="char:EOLhyphen"/>ties,</hi> and the many <hi>Declarations</hi> of the Parlaments of of both Kingdoms, are such as they may not acknow<g ref="char:EOLhyphen"/>ledg. And for the matter therein conteined, Those many things of just Resentment, wherein <hi>Satisfaction</hi> is demanded from this Kingdom, are onely mentio<g ref="char:EOLhyphen"/>ned
+<pb n="3" facs="tcp:165689:3"/>in the general, and therfore cannot so well receive a particular Answer; but if by those general expres<g ref="char:EOLhyphen"/>sions, the late <hi>Ʋnlawful Engagement</hi> against <hi>England</hi> be understood, they desire that their Protestation a<g ref="char:EOLhyphen"/>gainst the same in Parlament, and the opposition made thereunto by them afterwards in Arms (which they never laid down until the Garisons of <hi>Berwick</hi> and <hi>Carlisle</hi> were restored to the Kingdom of <hi>England</hi>) may be remembred, together with the Letter of the House of <hi>Commons,</hi> to the General Assembly of the Kirk: And that Lieutenant General <hi>Cromwel,</hi> autori<g ref="char:EOLhyphen"/>zed from both Houses of Parlament, did upon the fifth of <hi>October</hi> last, represent to the Committee of Estates of this Kingdom of <hi>England</hi> in that Engage<g ref="char:EOLhyphen"/>ment, and thereupon did demand that they would give assurance, in the Name of the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> not to admit to suffer any, who have been active in, or consenting to that <hi>Engagement,</hi> to be imployed in any publike place, or trust whatsoever; which was not only granted and confirmed in Parlament, but all Acts for prosecution of that Engagement have been repealed, and all proceedings tending thereto, publikely disclaimed; And if any other wrongs shall be made known to us, we shall be ready to return such an answer as may give just satisfaction. If the <hi>Bonds</hi> of <hi>Religion,</hi> Loyalty to the <hi>King,</hi> and mutual <hi>Amitie</hi> and <hi>Friendship</hi> betwixt the Kingdoms be impartially con<g ref="char:EOLhyphen"/>sidered, according to the Solemn League and Cove<g ref="char:EOLhyphen"/>nant, and the Professions and Declarations of both Kingdoms, The <hi>Estates</hi> of Parlament think they have just cause to complain of the late proceedings in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in reference to Religion, the taking away the Kings life, and the change of the government of that Kingdom.</p>
+                  <pb n="4" facs="tcp:165689:4"/>
+                  <p>Against which this <hi>Kirk</hi> and <hi>Kingdom</hi> and their <hi>Com<g ref="char:EOLhyphen"/>missioners</hi> have protested and given testimony, where<g ref="char:EOLhyphen"/>unto they do still adhere, And since it is apparent there hath been of late in <hi>England</hi> a back-sliding and departure from the grounds and Principles wherein the two Kingdoms have bin engaged; The <hi>Parlament</hi> of this Kingdom doth propound, that the late proceed<g ref="char:EOLhyphen"/>ings there, against <hi>Covenant</hi> and <hi>Treaties,</hi> may be dis<g ref="char:EOLhyphen"/>claimed and dis-avowed, as the prosecution of the late unlawful Engagement against <hi>England</hi> hath been disclaimed and disavowed here: And that such as have departed from these Principles, and their former Pro<g ref="char:EOLhyphen"/>fessions, may return to the same. Upon which grounds they are content to autorize Commissioners on behalf of this Kingdom, to Treat with Commis<g ref="char:EOLhyphen"/>sioners from both Houses of the Parlament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> sitting in freedom, concerning all Matters of just complaint, which either Nation may have against the other; and for redress and reparation thereof, and to do every thing that may further conduce, for continu<g ref="char:EOLhyphen"/>ing the happy Peace and Union betwixt the King<g ref="char:EOLhyphen"/>doms, which can never be setled on so sure a founda<g ref="char:EOLhyphen"/>tion as the former Treaties, and the solemn League and Covenant, from which, as no <hi>Alteration,</hi> or <hi>Revo<g ref="char:EOLhyphen"/>lution</hi> of affairs can absolve either Kingdom; so wee trust in God, that no success whatsoever, whether good or bad, shall be able to divert us; but as it hath been our care in times past, it shall, with the Lords assistance, still be our reall endeavors for the future, to keep our selvs free of all compliance with, or decli<g ref="char:EOLhyphen"/>ning to the Popish, Prelatical, or Malignant party up<g ref="char:EOLhyphen"/>on the one hand; or to those that are Enemies to the Fundamental Government, by King and Parlament;
+<pb n="5" facs="tcp:165689:4"/>and countenance and maintain Errors, Heresie, and Schism, upon the other. I have no other thing in com<g ref="char:EOLhyphen"/>mand from the Parlament of this Kingdom, but to take notice, that there is no answer returned to their Letter of the fifth of <hi>March.</hi> And so rests</p>
+                  <closer>
+                     <signed>
+                        <hi>Your humble Servant,</hi> Loudoun, <hi>Cancel. Praeses Parlamenti.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>And in another paper likewise, they further repre<g ref="char:EOLhyphen"/>sent other additional Proposals; <hi>viz.</hi>
+                  </head>
+                  <p>First, <hi>That there may be no toleration of Idolatry, Popery, Prelacy, Heresie, Schism, or Prophaness.</hi>
+                  </p>
+                  <p>Secondly, <hi>That there be no change of the Fundamental Constitution and Government of this Kingdom, by</hi> King, Lords, <hi>and</hi> Commons.</p>
+                  <p>Thirdly, <hi>That there may be nothing done which may wrong King</hi> Charls <hi>the Second, in his Succession, as righ<g ref="char:EOLhyphen"/>teous heir of the Crown of these Kingdoms; but that by the free Councils of both Houses of Parlament, Reformation of, and Ʋniformity in Religion, may be setled according to the Covenant; and particularly, that Presbyterial Government, the Confession of Faith, Directory for Worship, and Cate<g ref="char:EOLhyphen"/>chism, may be established; That the just Right and Title of King</hi> Charls <hi>the Second to the Crown of these Kingdoms, may be acknowledged; And upon just satisfaction given to both Kingdoms, he may be received and admitted to the ex<g ref="char:EOLhyphen"/>ercise of his Government: And if, notwithstanding all our earnest desires and endeavors to the contrary, the Commons now sitting at</hi> Westminster <hi>shall proceed otherwise, in all, or in any of the particulars aforesaid, We do hereby in the Name of the Parlament and Kingdom of</hi> Scotland, <hi>dissent from the same; and solemnly protest, That they may be free before God and Man, of the guiltiness, evils, confu<g ref="char:EOLhyphen"/>sions,
+<pb n="6" facs="tcp:165689:5"/>miseries and calamities, that may follow thereupon to these distracted Kingdoms.</hi>
+                  </p>
+                  <closer>
+                     <signed>Subscribed, <hi>Lothian. Jo: Cheifly. Will. Glendoning.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>An Abstract from <hi>Newcastle.</hi>
+                        </head>
+                        <p>
+                           <hi>Sir,</hi> ON the 9th instant, His Excellency the Lord General <hi>Cromwel,</hi> advanced as far as <hi>Durham,</hi> where he was met by Col. <hi>Pride,</hi> Col. <hi>Hacker,</hi> and Sir <hi>Arthur Hasterig,</hi> from thence he took his journey to<g ref="char:EOLhyphen"/>wards <hi>Berwick,</hi> where he intends to keep his head<g ref="char:EOLhyphen"/>quarters; it is confidently reported here, that about the 25 the Army intends to march over <hi>Berwick</hi> bridg, and are unanimously resolved, to give the <hi>Scots</hi> battle; who are (if you will give credit to <hi>John Presbyters</hi> re<g ref="char:EOLhyphen"/>port) about 30000 horse and foot, and are divided into three several Brigades, the manner thus; The old standing <hi>Kirk-Army,</hi> commanded by General <hi>Leven</hi> in chief, David <hi>Lesley</hi> remains Leiutenant Gen. and <hi>Hol<g ref="char:EOLhyphen"/>bourn</hi> is Major General: the second, consists of <hi>English,</hi> and is said to be commanded by Col. <hi>Massey,</hi> who is made their Lieut. General; the third, are Hilanders, and Lieut. General <hi>Douglas</hi> commands in chief; they are to rendezvous in <hi>Dunslaw</hi> field, and there the Com<g ref="char:EOLhyphen"/>mittee of Estates have appointed they shall fight the English-Army; but we hope the Lord Generals spee<g ref="char:EOLhyphen"/>dy march will prevent the conjunxion of their new Levies. The last news from <hi>Edenborough</hi> we thus re<g ref="char:EOLhyphen"/>ceived, That the King of <hi>Scots</hi> came thither the sixt of <hi>June</hi> from St. <hi>Johnstons,</hi> to be crowned with all ex<g ref="char:EOLhyphen"/>pedition; he was received in great triumph, some streets being adorned with rich hangings; with bone<g ref="char:EOLhyphen"/>sires blazing and bels ringing, the like hath not been seen these many years.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
